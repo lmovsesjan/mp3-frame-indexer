@@ -1,0 +1,24 @@
+mp3-frame-indexer (1.0-3) unstable; urgency=low
+
+  * added index-only option
+
+ -- Leonid A. Movsesjan <lmovsesjan@yandex-team.ru>  Wed, 24 Aug 2011 13:53:33 +0400
+
+mp3-frame-indexer (1.0-2.1) unstable; urgency=low
+
+  * fixed index builder
+
+ -- Leonid A. Movsesjan <lmovsesjan@yandex-team.ru>  Tue, 23 Aug 2011 19:09:21 +0400
+
+mp3-frame-indexer (1.0-2) unstable; urgency=low
+
+  * fixed generating
+
+ -- Leonid A. Movsesjan <lmovsesjan@yandex-team.ru>  Thu, 18 Aug 2011 21:43:25 +0400
+
+mp3-frame-indexer (1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Leonid A. Movsesjan <lmovsesjan@yandex-team.ru>  Thu, 18 Aug 2011 17:54:49 +0400
+

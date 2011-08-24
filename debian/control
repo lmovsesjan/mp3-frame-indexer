@@ -1,0 +1,10 @@
+Source: mp3-frame-indexer
+Priority: extra
+Maintainer: Leonid A. Movsesjan <lmovsesjan@yandex-team.ru>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mp3-frame-indexer
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Simple mp3 indexer
